@@ -1,0 +1,18 @@
+{
+  "name": "UAS Quiz App",
+  "short_name": "UAS Quiz",
+  "description": "Test your knowledge on UAS and C-UAS topics",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#3B5BDB",
+  "theme_color": "#3B5BDB",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
